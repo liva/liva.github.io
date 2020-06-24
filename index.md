@@ -2,17 +2,21 @@ Shinichi Awamoto
 ================
 <img src="icon_small.jpg" width="256">
 
-Research Topics: Operating System (on Many-Core SoCs), Device Drivers, Synchronizations
-Current Project: [Toshokan](https://github.com/PFLab-OS/Toshokan) (an execution platform for baremetal programs)
-Previous Projects: [xhci_uio](https://github.com/liva/xhci_uio), [Raph_Kernel](https://github.com/PFLab-OS/Raph_Kernel)
-Laboratory: [PFLab](https://www.pf.is.s.u-tokyo.ac.jp)
-Mail: shinichi.awamoto(at)pf.is.u-tokyo.ac.jp (Please replace (at) to @)
-Others: [github](https://github.com/liva/)
+Research Topics: Operating System, Device Drivers
+Current Project: [hayagui](https://github.com/liva/hayagui) (a storage software stack for accelerators)
+Previous Projects: [Toshokan](https://github.com/PFLab-OS/Toshokan) (an execution platform for baremetal programs), [xhci_uio](https://github.com/liva/xhci_uio), [Raph_Kernel](https://github.com/PFLab-OS/Raph_Kernel)
+Mail: shinichi.awamoto(at)gmail.com (Please replace (at) to @)
+Others: see [github](https://github.com/liva/)
 
 ## Education
+### Doctoral course of Informatics
+*2021-*
+The University of Edinburgh, Scotland
+
 ### Doctoral course of Computer Science
-*2019-current*
+*2019-2020*
 The University of Tokyo, Japan
+(withdrawal)
 
 ### Master course of Computer Science
 *2017-2019*
@@ -26,9 +30,10 @@ Bachelor's Thesis: Scalable Lock Algorithms for the Tile-based Many-core Archite
 
 ## Publications
 ### Conference
+- <u>S. Awamoto</u>, E. Focht, and M. Honda. "Designing a Storage Software Stack for Accelerators", In* Proceedings of the 12th USENIX Workshop on Hot Topics in Storage and File Systems (__Hotstorage__)*, July 2020.
 - H. Yabuuchi, <u>S. Awamoto</u>, H. Chishiro, and S. Kato. ”Multikernel Design and Implmentation for Improving Responsiveness of Aperiodic Tasks”, In* Proceedings of the 12th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-
-Chip (__MCSoC__)*, pp. 109-116, September 2018.
-- <u>S. Awamoto</u>, H. Chishiro, and S. Kato. ”Scalable and Memory-Efficient Spin Locks for Embedded Tile-Based Many-Core Architectures”, I*n Proceedings of the 21th IEEE International Symposium on Real-Time Computing (__ISORC__)*, pp. 25-32, May 2018.
+Chip (__MCSoC__)*, pp. 109-116, Sep 2018.
+- <u>S. Awamoto</u>, H. Chishiro, and S. Kato. ”Scalable and Memory-Efficient Spin Locks for Embedded Tile-Based Many-Core Architectures”,n* Proceedings of the 21th IEEE International Symposium on Real-Time Computing (__ISORC__)*, pp. 25-32, May 2018.
 
 ## Work Experience
 ### NEC Laboratories Europe GmbH
@@ -36,7 +41,7 @@ Chip (__MCSoC__)*, pp. 109-116, September 2018.
 Internship
 
 ### IIJ Innovation Institute Inc, part-time
-*2017-2019*
+*2017-current*
 as a Research Assistant
 
 ### The Security Camp
